@@ -30,47 +30,70 @@ const variables = {
   inspirations: {
     label: 'inspiration',
     values: [
+      // Art, Media, & Special Interests
       'a book',
-      'a face',
       'a hobby',
-      'a landscape',
-      'a memory',
-      'a place',
-      'a season',
-      'abstract shapes',
-      'an era',
-      'an art movement',
-      'an emotion',
-      'animals',
+      'a movie',
       'architecture',
-      'birds',
-      'cacti',
       'famous artwork',
       'fashion',
-      'flowers',
-      'fruit',
-      'geometric shapes',
-      'insects',
-      'mushrooms',
-      'mythology',
-      'nighttime',
-      'ocean life',
-      'outer space',
       'patterns',
-      'plants',
+
+      // Concepts
+      'a memory',
+      'an emotion',
+
+      // Creatures
+      'a face',
+      'animals',
+      'birds',
+      'cats',
+      'dogs',
+      'fish',
+      'insects',
+      'mythical creatures',
+      'ocean life',
+      'the human form',
+
+      // History
+      'an art movement',
+      'an era',
+      'mythology',
+
+      // Locations
+      'a landscape',
+      'a place',
+      'outer space',
       'the beach',
       'the desert',
       'the forest',
-      'the human form',
       'the jungle',
       'the moon',
       'the mountains',
       'the ocean',
       'the sky',
       'the sun',
+
+      // Nature
+      'cacti',
+      'flowers',
+      'fruit',
+      'mushrooms',
+      'plants',
       'trees',
       'water',
       'weather',
+
+      // Time
+      'a season',
+      'nighttime',
+      'the sunrise',
+      'the sunset',
+
+      // Shapes
+      'abstract shapes',
+      'geometric shapes',
+      'organic shapes',
     ],
   },
   deco_techniques: {
